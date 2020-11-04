@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46012851108",
+    "firebase_url": "https://the-data-sanitizer.firebaseio.com",
+    "project_id": "the-data-sanitizer",
+    "storage_bucket": "the-data-sanitizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46012851108:android:1e5c0cbffd7153f1b9d731",
+        "android_client_info": {
+          "package_name": "com.thedatasanitizer.app.a1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46012851108-gkqquq68q5n41cc5d575b576haplg7rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thedatasanitizer.app.a1",
+            "certificate_hash": "995211d594177dcb23a1da486f757ef5a927a4c4"
+          }
+        },
+        {
+          "client_id": "46012851108-eqpf497osgvji8qo23f11oa0vpbhff5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGTXiE-iq_RIRMaeN6Ws4M88xLPDGm3RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46012851108-eqpf497osgvji8qo23f11oa0vpbhff5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
